@@ -31,6 +31,7 @@ Change to the project directory, you can run:
 ### `cd blog-microservice`
 
 ### `skaffold dev`
+And open the Browser with posts.com
 
 Once completed make sure to run
 
